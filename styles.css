@@ -1,0 +1,29 @@
+* {
+    background-color: rgb(48, 25, 52);
+    color: gold;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace
+}
+
+h1 {
+    font-size: 36px;
+}
+
+li {
+    font-size: 25px;
+    display: inline;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+img {
+    height: auto;
+    width: 100px;
+    display: inline;
+}
+
+.spaghetti {
+    height: 100px;
+}
